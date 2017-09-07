@@ -1,0 +1,29 @@
+body{
+
+}
+.imagem-git{
+    width: 100%;
+     text-align: center;
+    margin-top: 25px;  
+}
+
+.busca{
+    margin-top: 10px;
+}
+
+.botao-busca{
+    background:transparent;
+    border:none;
+}
+.email{
+     width: 100%;
+	    overflow: auto;
+}
+.perfil, .repos{
+    position: inherit;
+    margin-top: 15px;
+}
+.central{
+    position: relative;    
+    height: 100px;
+}
